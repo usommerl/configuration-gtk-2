@@ -1,0 +1,10 @@
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+include "/usr/share/themes/Adwaita/gtk-2.0/gtkrc"
+
+include "/home/uwe/.gtkrc.mine"
+
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+
+gtk-icon-theme-name = "oxygen"
+gtk-menu-images = 0
+gtk-button-images = 0
