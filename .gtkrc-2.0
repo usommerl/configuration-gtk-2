@@ -8,3 +8,8 @@ include "/home/uwe/.gtkrc.mine"
 gtk-icon-theme-name = "oxygen"
 gtk-menu-images = 0
 gtk-button-images = 0
+
+style "uzbl" { 
+  GtkRange::slider-width = 0
+}
+widget "Uzbl*" style "uzbl"
